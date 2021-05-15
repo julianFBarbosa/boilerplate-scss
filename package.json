@@ -1,0 +1,28 @@
+{
+  "name": "boilerplate-scss",
+  "version": "1.0.0",
+  "description": "a brand new and clean boilerplate using scss!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Julian Barbosa\"",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-purgecss": "^4.0.3",
+    "gulp-sass": "^4.1.0",
+    "node": "^16.1.0",
+    "sass": "^1.32.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianFBarbosa/boilerplate-scss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/julianFBarbosa/boilerplate-scss/issues"
+  },
+  "homepage": "https://github.com/julianFBarbosa/boilerplate-scss#readme"
+}
